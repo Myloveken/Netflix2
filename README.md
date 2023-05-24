@@ -1,6 +1,6 @@
 # Netflix
 
- criando a primeira pagina di NetFlix
+ criando a primeira pagina do NetFlix
 
 ## Ferramenta
 
